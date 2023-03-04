@@ -4,3 +4,4 @@ Logs/*
 Predictions/*
 Experiments/.twitter_keys.yaml
 Experiments/search_config.yaml
+Experiments/logs.log
