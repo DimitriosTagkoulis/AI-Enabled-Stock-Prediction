@@ -2,6 +2,5 @@ Data/*
 Models/*
 Logs/*
 Predictions/*
-Experiments/.twitter_keys.yaml
-Experiments/search_config.yaml
-Experiments/logs.log
+Configs/.twitter_keys.yaml
+Code/logs.log
