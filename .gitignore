@@ -9,3 +9,4 @@ Code/catboost_info/learn_error.tsv
 Code/catboost_info/time_left.tsv
 Code/catboost_info/learn/events.out.tfevents
 Code/Basic EDA.ipynb
+EDA/*
